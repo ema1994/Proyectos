@@ -1,4 +1,22 @@
 .logo-principal{
-    width: 500px;
+    width: 100%;
     height: auto;
-};
+    border: 1px red solid;
+    display: flex;
+    justify-content: center;
+    margin: 0em;
+}
+
+.heroes-titulo{
+    font-size: 5rem;
+    color: green;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    margin: 0em;
+    width: 100%;
+}
+
+body{
+    margin: 0px;
+}
