@@ -15,6 +15,27 @@
     width: 100%;
 }
 
+.fuerza{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.agilidad{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+.inteligencia{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
 .items-titulo{
     font-size: 5rem;
     display: flex;
